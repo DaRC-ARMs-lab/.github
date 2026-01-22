@@ -21,11 +21,10 @@ This GitHub organization hosts repositories supporting:
 
 ## Affiliation & Dissemination
 
-- **Affiliation**: University of Dayton  
-- **Research Dissemination**: IEEE ICRA and related venues  
+- **Affiliation**: University of Dayton   
 
 ---
 
 **DaRC–ARMS Lab**  
-*Theory-driven autonomy, validated in the real world.*
+*Theory-driven autonomy and control, validated in the real world.*
 
